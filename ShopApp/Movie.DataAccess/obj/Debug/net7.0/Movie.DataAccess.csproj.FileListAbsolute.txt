@@ -1,0 +1,17 @@
+/Users/emre/Projects/ShopApp/Movie.DataAccess/bin/Debug/net7.0/Movie.DataAccess.deps.json
+/Users/emre/Projects/ShopApp/Movie.DataAccess/bin/Debug/net7.0/Movie.DataAccess.dll
+/Users/emre/Projects/ShopApp/Movie.DataAccess/bin/Debug/net7.0/Movie.DataAccess.pdb
+/Users/emre/Projects/ShopApp/Movie.DataAccess/obj/Debug/net7.0/Movie.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emre/Projects/ShopApp/Movie.DataAccess/obj/Debug/net7.0/Movie.DataAccess.AssemblyInfoInputs.cache
+/Users/emre/Projects/ShopApp/Movie.DataAccess/obj/Debug/net7.0/Movie.DataAccess.AssemblyInfo.cs
+/Users/emre/Projects/ShopApp/Movie.DataAccess/obj/Debug/net7.0/Movie.DataAccess.csproj.CoreCompileInputs.cache
+/Users/emre/Projects/ShopApp/Movie.DataAccess/obj/Debug/net7.0/Movie.DataAccess.dll
+/Users/emre/Projects/ShopApp/Movie.DataAccess/obj/Debug/net7.0/refint/Movie.DataAccess.dll
+/Users/emre/Projects/ShopApp/Movie.DataAccess/obj/Debug/net7.0/Movie.DataAccess.pdb
+/Users/emre/Projects/ShopApp/Movie.DataAccess/obj/Debug/net7.0/ref/Movie.DataAccess.dll
+/Users/emre/Projects/ShopApp/Movie.DataAccess/obj/Debug/net7.0/Movie.DataAccess.csproj.AssemblyReference.cache
+/Users/emre/Projects/ShopApp/Movie.DataAccess/bin/Debug/net7.0/Movie.DataAccess.runtimeconfig.json
+/Users/emre/Projects/ShopApp/Movie.DataAccess/bin/Debug/net7.0/Core.dll
+/Users/emre/Projects/ShopApp/Movie.DataAccess/bin/Debug/net7.0/Core.pdb
+/Users/emre/Projects/ShopApp/Movie.DataAccess/obj/Debug/net7.0/Movie.DataAccess.csproj.CopyComplete
+/Users/emre/Projects/ShopApp/Movie.DataAccess/obj/Debug/net7.0/Movie.DataAccess.genruntimeconfig.cache
