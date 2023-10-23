@@ -35,7 +35,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\SilverScreen\" />
-    <None Remove="Views\User\" />
     <None Remove="Views\Cart\" />
   </ItemGroup>
   <ItemGroup>
@@ -43,7 +42,6 @@
     <Folder Include="wwwroot\img\" />
     <Folder Include="wwwroot\lib\alertifyjs\" />
     <Folder Include="wwwroot\lib\alertifyjs\css\" />
-    <Folder Include="Views\User\" />
     <Folder Include="Views\Cart\" />
   </ItemGroup>
   <ItemGroup>

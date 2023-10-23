@@ -1,41 +1,36 @@
 ﻿<Properties StartupConfiguration="{5420DB0F-0145-4C9A-BD2A-E951ED4F103A}|https">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MovieShopApp.WebUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieShopApp.WebUI/Views/Shared/_navbar.cshtml">
+    <Files>
+      <File FileName="MovieShopApp.WebUI/Controllers/UsersController.cs" Line="1" Column="1" />
+      <File FileName="MovieShopApp.WebUI/Views/Cart/CartGroupBy.cshtml" Line="34" Column="37" />
+      <File FileName="MovieShopApp.WebUI/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="MovieShopApp.WebUI/Views/Cart/Cart.cshtml" Line="6" Column="65" />
+      <File FileName="MovieShopApp.WebUI/Views/Home/Index.cshtml" Line="3" Column="1" />
+      <File FileName="MovieShopApp.WebUI/Views/Home/Login.cshtml" Line="1" Column="5" />
+      <File FileName="MovieShopApp.WebUI/Views/Shared/_navbar.cshtml" Line="45" Column="18" />
+      <File FileName="MovieShopApp.WebUI/Views/SilverScreen/Index.cshtml" Line="3" Column="15" />
+      <File FileName="MovieShopApp.WebUI/Views/SilverScreen/Edit.cshtml" Line="3" Column="9" />
+      <File FileName="MovieShopApp.WebUI/Controllers/SilverScreenController.cs" Line="125" Column="45" />
+      <File FileName="../../Downloads/07_Base_Generics_Project 2/Core/Results/Bases/Result.cs" Line="9" Column="24" />
+      <File FileName="MovieShopApp.WebUI/Views/SilverScreen/Create.cshtml" Line="70" Column="59" />
+      <File FileName="MovieShopApp.WebUI/Views/SilverScreen/List.cshtml" Line="3" Column="1" />
+      <File FileName="MovieShopApp.WebUI/Views/SilverScreen/Details.cshtml" Line="3" Column="17" />
+      <File FileName="MovieShopApp.WebUI/Views/Shared/_movie.cshtml" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="ShopApp" expanded="True">
-            <Node name="MovieShopApp.WebUI" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="UsersController.cs" selected="True" />
-              </Node>
-              <Node name="Views" expanded="True">
-                <Node name="Cart" expanded="True" />
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" expanded="True" />
-                </Node>
-                <Node name="SilverScreen" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-                <Node name="img" expanded="True" />
-                <Node name="js" expanded="True" />
-              </Node>
-              <Node name="appsettings.json" expanded="True" />
-            </Node>
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.MovieShopApp.WebUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

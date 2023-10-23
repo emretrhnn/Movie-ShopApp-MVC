@@ -9,6 +9,7 @@ using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
 
+//regional adjustment
 List<CultureInfo> cultures = new List<CultureInfo>()
 {
     new CultureInfo("en-US") 
@@ -25,7 +26,7 @@ builder.Services.AddControllersWithViews();
 
 
 builder.Services
-    .AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)//authentication
 
     .AddCookie(config =>
 
@@ -38,7 +39,8 @@ builder.Services
 
         config.SlidingExpiration = true;
     });
-builder.Services.AddSession(config => 
+
+builder.Services.AddSession(config => //add session
 {
     config.IdleTimeout = TimeSpan.FromMinutes(30); 
     config.IOTimeout = Timeout.InfiniteTimeSpan; 
