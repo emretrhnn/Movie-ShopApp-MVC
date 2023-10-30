@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MovieShopApp.WebUI.props" />
+</Project>
