@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ogDuBn1ulPDvTNTl7B0PNbvTir3FvB7m5GIzA4Od41VEIQ8BqX8wpYoETNt4o+Z5u8FcBvhUh4DGV2vCbUuqoA==",
+  "dgSpecHash": "HJF226/oex9EMqAic0zH79cJjSLsObWdIqSjafuIGMDDLt3+wh3Vry5G1x+5IF78MuYlLg3bh1LKfyrmJ26uug==",
   "success": true,
-  "projectFilePath": "/Users/emre/Projects/ShopApp/Core/Core.csproj",
+  "projectFilePath": "/Users/emre/Documents/GitHub/Movie-ShopApp-MVC/ShopApp/Core/Core.csproj",
   "expectedPackageFiles": [
     "/Users/emre/.nuget/packages/microsoft.entityframeworkcore/7.0.11/microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "/Users/emre/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.11/microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

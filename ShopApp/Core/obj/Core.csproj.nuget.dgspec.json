@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emre/Projects/ShopApp/Core/Core.csproj": {}
+    "/Users/emre/Documents/GitHub/Movie-ShopApp-MVC/ShopApp/Core/Core.csproj": {}
   },
   "projects": {
-    "/Users/emre/Projects/ShopApp/Core/Core.csproj": {
+    "/Users/emre/Documents/GitHub/Movie-ShopApp-MVC/ShopApp/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emre/Projects/ShopApp/Core/Core.csproj",
+        "projectUniqueName": "/Users/emre/Documents/GitHub/Movie-ShopApp-MVC/ShopApp/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/emre/Projects/ShopApp/Core/Core.csproj",
+        "projectPath": "/Users/emre/Documents/GitHub/Movie-ShopApp-MVC/ShopApp/Core/Core.csproj",
         "packagesPath": "/Users/emre/.nuget/packages/",
-        "outputPath": "/Users/emre/Projects/ShopApp/Core/obj/",
+        "outputPath": "/Users/emre/Documents/GitHub/Movie-ShopApp-MVC/ShopApp/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emre/.nuget/NuGet/NuGet.Config"

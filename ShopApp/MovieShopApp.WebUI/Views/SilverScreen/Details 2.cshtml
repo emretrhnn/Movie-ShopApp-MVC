@@ -1,0 +1,61 @@
+﻿@model SilverScreenModel
+
+
+@{
+    ViewData["Title"] = "Movie Details";
+}
+
+
+<div>
+    <dl class="row">
+        <dt class="col-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class="col-2">
+            @Html.DisplayNameFor(model => model.Actors)
+        </dt>
+        <dd class="col-10">
+            @Html.DisplayFor(model => model.Actors)
+        </dd>
+        <dt class="col-2">
+            @Html.DisplayNameFor(model => model.Director)
+        </dt>
+        <dd class="col-10">
+            @Html.DisplayFor(model => model.Director)
+        </dd>
+        <dt class="col-2">
+            @Html.DisplayNameFor(model => model.Year)
+        </dt>
+        <dd class="col-10">
+            @Html.DisplayFor(model => model.Year)
+        </dd>
+        <dt class="col-2">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class="col-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt class="col-2">
+            @Html.DisplayNameFor(model => model.CategoryNameDisplay)
+        </dt>
+        <dd class="col-10">
+            @Html.DisplayFor(model => model.CategoryNameDisplay)
+        </dd>
+
+    </dl>
+</div>
+<div class="text-center">
+    <a asp-action="list" asp-controller="SilverScreen" class="btn btn-outline-info text-dark">Back to List</a>
+</div>
+
+
+

@@ -1,0 +1,24 @@
+P:/DATA/LUNA/WORK/İstanbul Eğitim Akademi/MyLectures/2023/07_Base_Generics_Project/Core/bin/Debug/net7.0/Core.deps.json
+P:/DATA/LUNA/WORK/İstanbul Eğitim Akademi/MyLectures/2023/07_Base_Generics_Project/Core/bin/Debug/net7.0/Core.dll
+P:/DATA/LUNA/WORK/İstanbul Eğitim Akademi/MyLectures/2023/07_Base_Generics_Project/Core/bin/Debug/net7.0/Core.pdb
+P:/DATA/LUNA/WORK/İstanbul Eğitim Akademi/MyLectures/2023/07_Base_Generics_Project/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+P:/DATA/LUNA/WORK/İstanbul Eğitim Akademi/MyLectures/2023/07_Base_Generics_Project/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+P:/DATA/LUNA/WORK/İstanbul Eğitim Akademi/MyLectures/2023/07_Base_Generics_Project/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+P:/DATA/LUNA/WORK/İstanbul Eğitim Akademi/MyLectures/2023/07_Base_Generics_Project/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+P:/DATA/LUNA/WORK/İstanbul Eğitim Akademi/MyLectures/2023/07_Base_Generics_Project/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+P:/DATA/LUNA/WORK/İstanbul Eğitim Akademi/MyLectures/2023/07_Base_Generics_Project/Core/obj/Debug/net7.0/Core.dll
+P:/DATA/LUNA/WORK/İstanbul Eğitim Akademi/MyLectures/2023/07_Base_Generics_Project/Core/obj/Debug/net7.0/refint/Core.dll
+P:/DATA/LUNA/WORK/İstanbul Eğitim Akademi/MyLectures/2023/07_Base_Generics_Project/Core/obj/Debug/net7.0/Core.pdb
+P:/DATA/LUNA/WORK/İstanbul Eğitim Akademi/MyLectures/2023/07_Base_Generics_Project/Core/obj/Debug/net7.0/ref/Core.dll
+/Users/emre/Downloads/07_Base_Generics_Project 2/Core/bin/Debug/net7.0/Core.deps.json
+/Users/emre/Downloads/07_Base_Generics_Project 2/Core/bin/Debug/net7.0/Core.dll
+/Users/emre/Downloads/07_Base_Generics_Project 2/Core/bin/Debug/net7.0/Core.pdb
+/Users/emre/Downloads/07_Base_Generics_Project 2/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/Users/emre/Downloads/07_Base_Generics_Project 2/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emre/Downloads/07_Base_Generics_Project 2/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/Users/emre/Downloads/07_Base_Generics_Project 2/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/Users/emre/Downloads/07_Base_Generics_Project 2/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/Users/emre/Downloads/07_Base_Generics_Project 2/Core/obj/Debug/net7.0/Core.dll
+/Users/emre/Downloads/07_Base_Generics_Project 2/Core/obj/Debug/net7.0/refint/Core.dll
+/Users/emre/Downloads/07_Base_Generics_Project 2/Core/obj/Debug/net7.0/Core.pdb
+/Users/emre/Downloads/07_Base_Generics_Project 2/Core/obj/Debug/net7.0/ref/Core.dll

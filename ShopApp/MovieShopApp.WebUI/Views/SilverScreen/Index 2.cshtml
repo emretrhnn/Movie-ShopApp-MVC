@@ -1,0 +1,45 @@
+﻿@model MovieListModel
+
+
+
+<table class="table table-bordered">
+    <thead >
+        <tr>
+            <td style="width:30px;"><b>ID</b></td>
+            <td style="width:100px;"><b>IMAGE</b></td>
+            <td style="width:12px;"><b>NAME</b></td>
+            <td style="width:12px;"><b>DESCRIPTION</b></td>
+            <td style="width:12px;"><b>ACTOR</b></td>
+            <td style="width:12px;"><b>DIRECTOR</b></td>
+            <td style="width:12px;"><b>YEAR</b></td>
+            <td style="width:12px;"><b>PRICE</b></td>
+            <td style="width:90px;"><b></b></td>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.silverScreens)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>
+                    <img src="~/img/@item.ImageUrl" width="80" />
+                </td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Actors</td>
+                <td>@item.Director</td>
+                <td>@item.Year</td>
+                <td>@item.Price</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id },new {style="color:#2697C2" }) ||
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { style = "color:#CB2828" })
+
+                </td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>
+
