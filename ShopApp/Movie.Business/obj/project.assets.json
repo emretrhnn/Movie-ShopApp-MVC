@@ -2828,8 +2828,8 @@
     },
     "Core/1.0.0": {
       "type": "project",
-      "path": "../../../Downloads/07_Base_Generics_Project 2/Core/Core.csproj",
-      "msbuildProject": "../../../Downloads/07_Base_Generics_Project 2/Core/Core.csproj"
+      "path": "../Core/Core/Core.csproj",
+      "msbuildProject": "../Core/Core/Core.csproj"
     },
     "Movie.DataAccess/1.0.0": {
       "type": "project",

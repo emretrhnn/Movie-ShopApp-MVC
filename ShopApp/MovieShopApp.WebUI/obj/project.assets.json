@@ -3671,8 +3671,8 @@
     },
     "Core/1.0.0": {
       "type": "project",
-      "path": "../../../Downloads/07_Base_Generics_Project 2/Core/Core.csproj",
-      "msbuildProject": "../../../Downloads/07_Base_Generics_Project 2/Core/Core.csproj"
+      "path": "../Core/Core/Core.csproj",
+      "msbuildProject": "../Core/Core/Core.csproj"
     },
     "Movie.Business/1.0.0": {
       "type": "project",
@@ -3687,7 +3687,6 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Core >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 7.0.11",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.11",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.11",
@@ -3723,9 +3722,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/emre/Downloads/07_Base_Generics_Project 2/Core/Core.csproj": {
-              "projectPath": "/Users/emre/Downloads/07_Base_Generics_Project 2/Core/Core.csproj"
-            },
             "/Users/emre/Projects/ShopApp/Movie.Business/Movie.Business.csproj": {
               "projectPath": "/Users/emre/Projects/ShopApp/Movie.Business/Movie.Business.csproj"
             },

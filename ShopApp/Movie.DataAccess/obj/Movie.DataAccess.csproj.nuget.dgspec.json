@@ -4,14 +4,14 @@
     "/Users/emre/Projects/ShopApp/Movie.DataAccess/Movie.DataAccess.csproj": {}
   },
   "projects": {
-    "/Users/emre/Downloads/07_Base_Generics_Project 2/Core/Core.csproj": {
+    "/Users/emre/Projects/ShopApp/Core/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emre/Downloads/07_Base_Generics_Project 2/Core/Core.csproj",
+        "projectUniqueName": "/Users/emre/Projects/ShopApp/Core/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/emre/Downloads/07_Base_Generics_Project 2/Core/Core.csproj",
+        "projectPath": "/Users/emre/Projects/ShopApp/Core/Core/Core.csproj",
         "packagesPath": "/Users/emre/.nuget/packages/",
-        "outputPath": "/Users/emre/Downloads/07_Base_Generics_Project 2/Core/obj/",
+        "outputPath": "/Users/emre/Projects/ShopApp/Core/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emre/.nuget/NuGet/NuGet.Config"
@@ -85,8 +85,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/emre/Downloads/07_Base_Generics_Project 2/Core/Core.csproj": {
-                "projectPath": "/Users/emre/Downloads/07_Base_Generics_Project 2/Core/Core.csproj"
+              "/Users/emre/Projects/ShopApp/Core/Core/Core.csproj": {
+                "projectPath": "/Users/emre/Projects/ShopApp/Core/Core/Core.csproj"
               }
             }
           }

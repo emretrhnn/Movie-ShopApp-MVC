@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie.DataAccess", "Movie.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie.Business", "Movie.Business\Movie.Business.csproj", "{449530CC-1FEC-4F8D-9366-06BD7768C7EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "..\..\Downloads\07_Base_Generics_Project 2\Core\Core.csproj", "{C1970551-7C26-4B6A-8A3D-CC916139E8C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core\Core.csproj", "{E2FEAB84-1643-4216-817B-FDA2F022269C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{449530CC-1FEC-4F8D-9366-06BD7768C7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{449530CC-1FEC-4F8D-9366-06BD7768C7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{449530CC-1FEC-4F8D-9366-06BD7768C7EC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C1970551-7C26-4B6A-8A3D-CC916139E8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C1970551-7C26-4B6A-8A3D-CC916139E8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C1970551-7C26-4B6A-8A3D-CC916139E8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C1970551-7C26-4B6A-8A3D-CC916139E8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2FEAB84-1643-4216-817B-FDA2F022269C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FEAB84-1643-4216-817B-FDA2F022269C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FEAB84-1643-4216-817B-FDA2F022269C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FEAB84-1643-4216-817B-FDA2F022269C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

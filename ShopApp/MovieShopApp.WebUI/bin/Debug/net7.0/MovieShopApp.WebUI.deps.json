@@ -35,7 +35,6 @@
     ".NETCoreApp,Version=v7.0": {
       "MovieShopApp.WebUI/1.0.0": {
         "dependencies": {
-          "Core": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "7.0.11",
           "Microsoft.EntityFrameworkCore.Design": "7.0.11",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.11",
